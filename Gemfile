@@ -21,7 +21,10 @@ gem 'devise'
 gem 'solargraph', group: :development
 #Rubocop
 gem 'rubocop', group: :development
-
+#Bootstrap
+gem 'bootstrap-sass', '~> 3.4'
+# jQuery
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
