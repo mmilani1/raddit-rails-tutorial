@@ -25,6 +25,8 @@ gem 'rubocop', group: :development
 gem 'bootstrap-sass', '~> 3.4'
 # jQuery
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+#votable
+gem 'acts_as_votable', '~> 0.12.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
