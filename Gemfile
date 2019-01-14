@@ -27,6 +27,8 @@ gem 'bootstrap-sass', '~> 3.4'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 #votable
 gem 'acts_as_votable', '~> 0.12.0'
+gem 'simple_form', '~> 4.1'
+gem 'record_tag_helper'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
